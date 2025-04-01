@@ -39,3 +39,4 @@ build/
 
 ### private ###
 /.idea/
+logs
